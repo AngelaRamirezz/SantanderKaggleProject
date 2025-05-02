@@ -6,7 +6,7 @@ This repository contains the approach to obtain the best scores using the best m
 The best model resulted in area under the ROC curve between the predicted proability and the observed target AUC=0.829.
 
 ## Summary 
-### Data
+### Tabular Data
 Size: 119.04 MB
 
 76,020 Customers across 371 features
