@@ -30,7 +30,9 @@ TARGET Distribution
 ![image](https://github.com/user-attachments/assets/e8aa1725-ecba-4549-ada9-2ac8fa7da484)
 
 Distribution of Dissatisfied vs Satisfied customers
+
 ![image](https://github.com/user-attachments/assets/9b04be8e-0ae7-42e1-a57a-958522b95663)
+
 ![image](https://github.com/user-attachments/assets/546fb079-e505-4868-8148-4576b3fba137)
 
 
@@ -47,6 +49,7 @@ Random Forst
 ROC curves 
 
 Logistic Regression Model:
+
 ![image](https://github.com/user-attachments/assets/b713379b-f9eb-4a35-8027-7f3d7c9e8f9d)
 
 Decision Tree:
