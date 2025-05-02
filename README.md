@@ -29,7 +29,7 @@ TARGET Distribution
 
 ![image](https://github.com/user-attachments/assets/e8aa1725-ecba-4549-ada9-2ac8fa7da484)
 
-Distribution of Dissatisfied vs Satisfied customers
+Distribution of Dissatisfied vs Satisfied customers in 'var15' (One of the features with best distribution)
 
 ![image](https://github.com/user-attachments/assets/9b04be8e-0ae7-42e1-a57a-958522b95663)
 
