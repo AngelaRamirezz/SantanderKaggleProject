@@ -18,7 +18,7 @@ Distribution of Dissatisfied vs Satisfied customers
 
 
 
-## Problem Fotmulation
+## Problem Formulation
 
 ## Performance Comparison
 ROC curves 
