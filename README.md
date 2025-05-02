@@ -1,7 +1,7 @@
 # SantanderKaggleProject
 Kaggle Tabular Project using Santander Bank's Customer Satisfaction Kaggle Challenge data
 ## Overview
-Santander Bank wants to priotize their relationships with customers. They proposed a Kaggle challenge, with which they wish to find a system to help identify dissatisfied customers early in their relationship. By doing so they will be able to take corrective steps to imporve the customers experience. Santander Bank presents the data of over 76,000 customers and 370 features.
+Santander Bank wants to priotize their relationships with customers. They proposed a Kaggle challenge, with which they wish to find a system to help identify dissatisfied customers early in their relationship. By doing so they will be able to take corrective steps to imporve the customers experience. Santander Bank presents the data of over 76,000 customers and 370 features. A unique part of this challenge is that Santander Bank intentionally provides wuth anonymized feature to predict if the customers are satisfied. Therefore, most of the features are binary.
 This repository contains the approach to obtain the best scores using the best model, to predict customer satisfaction.
 The best model resulted in area under the ROC curve between the predicted proability and the observed target AUC=0.85.
 
@@ -15,6 +15,9 @@ First removed ID number, and removed "TARGET" label from the training set.
 The training sample was split into train, validation, and test sub-samples.
 
 #### Data Visualization
+TARGET Distribution 
+![image](https://github.com/user-attachments/assets/e8aa1725-ecba-4549-ada9-2ac8fa7da484)
+
 Distribution of Dissatisfied vs Satisfied customers
 ![image](https://github.com/user-attachments/assets/9b04be8e-0ae7-42e1-a57a-958522b95663)
 ![image](https://github.com/user-attachments/assets/546fb079-e505-4868-8148-4576b3fba137)
@@ -42,9 +45,6 @@ Decision Tree:
 Random Forest:
 
 ![image](https://github.com/user-attachments/assets/db2e321b-1dc6-43b1-836d-16ee4cbb3b85)
-
-
-
 
 
 ## Conclusions 
