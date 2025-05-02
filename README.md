@@ -56,10 +56,6 @@ Decision Tree:
 
 ![image](https://github.com/user-attachments/assets/554d76ce-593e-4b53-904f-e5a46ba92b5f)
 
-Random Forest:
-
-![image](https://github.com/user-attachments/assets/db2e321b-1dc6-43b1-836d-16ee4cbb3b85)
-
 
 ## Conclusions 
 The model that worked best for this particular problem was the Decision Tree. The next best was Logisitc Regression although it had low performance. Random forest had a blocky curve probabily due to errors in data formatting so it was not optimal.
