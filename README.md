@@ -16,6 +16,7 @@ The training sample was split into train, validation, and test sub-samples.
 
 #### Data Visualization
 TARGET Distribution 
+
 ![image](https://github.com/user-attachments/assets/e8aa1725-ecba-4549-ada9-2ac8fa7da484)
 
 Distribution of Dissatisfied vs Satisfied customers
