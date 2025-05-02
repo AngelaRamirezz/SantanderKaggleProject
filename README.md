@@ -38,7 +38,13 @@ Distribution of Dissatisfied vs Satisfied customers in 'var15' (One of the featu
 
 
 ## Problem Formulation
+"TARGET" 
+
+Unsatisfied=1
+Satisfied=0
+
 Models used: 
+
 Logistic Regression
 
 Decision Tree
