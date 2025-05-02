@@ -1,14 +1,24 @@
 # SantanderKaggleProject
 Kaggle Tabular Project using Santander Bank's Customer Satisfaction Kaggle Challenge data
 ## Overview
-Santander Bank wants to priotize their relationships with customers. They proposed a Kaggle challenge, with which they wish to find a system to help identify dissatisfied customers early in their relationship. By doing so they will be able to take corrective steps to imporve the customers experience. Santander Bank presents the data of over 76,000 customers and 370 features. A unique part of this challenge is that Santander Bank intentionally provides wuth anonymized feature to predict if the customers are satisfied. Therefore, most of the features are binary.
+Santander Bank wants to priotize their relationships with customers. They proposed a Kaggle challenge, with which they wish to find a system to help identify dissatisfied customers early in their relationship. By doing so they will be able to take corrective steps to imporve the customers experience. Santander Bank presents the data of over 76,000 customers and 370 features. A unique part of this challenge is that Santander Bank intentionally provides with anonymized feature to predict if the customers are satisfied. Therefore, most of the features are binary.
 This repository contains the approach to obtain the best scores using the best model, to predict customer satisfaction.
 The best model resulted in area under the ROC curve between the predicted proability and the observed target AUC=0.85.
 
 ## Summary 
 ### Data
 Size: 119.04 MB
+
 76,020 Customers across 371 features
+
+3 files:
+
+sample_submission.csv
+
+test.csv
+
+train.csv
+
 
 #### Preprocessing/Clean up
 First removed ID number, and removed "TARGET" label from the training set.
