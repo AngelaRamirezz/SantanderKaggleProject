@@ -13,11 +13,19 @@ There were no missing values in the data. However there were a few repeated colu
 
 #### Data Visualization
 Distribution of Dissatisfied vs Satisfied customers
+![image](https://github.com/user-attachments/assets/9b04be8e-0ae7-42e1-a57a-958522b95663)
+![image](https://github.com/user-attachments/assets/546fb079-e505-4868-8148-4576b3fba137)
+
+
 
 ## Problem Fotmulation
 
 ## Performance Comparison
-Other ROC curves 
+ROC curves 
+
+Linear Regression Model:
+![image](https://github.com/user-attachments/assets/b713379b-f9eb-4a35-8027-7f3d7c9e8f9d)
+
 
 ## Conclusions 
 The model that worked best for this particular problem was x.
